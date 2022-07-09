@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monamie13
+- 👋 Hi, Adeola Folayan 
 - 👀 I’m interested in... Web Development 
 - 🌱 I’m currently learning ...Frontend 
 - 💞️ I’m looking to collaborate on ...
@@ -8,6 +8,6 @@ https://Instagram/wunmi_bakare
 @bakareomowunmi@gmail.com 
 
 <!---
-Monamie13/Monamie13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adeola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
